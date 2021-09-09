@@ -131,10 +131,9 @@ dmypy.json
 # Solutions
 *sol*
 
-nbs/01-04*
 nbs/02*
 nbs/03*
 nbs/04*
-evals/
+evals/temp/
 data/temp/
 étudiants
