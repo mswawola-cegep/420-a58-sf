@@ -130,8 +130,11 @@ dmypy.json
 
 # Solutions
 *sol*
-
-nbs/02*
+data/people*
+nbs/02-02*/02-02-A2*
+nbs/02-03*
+nbs/02-04*
+nbs/02-05*
 nbs/03*
 nbs/04*
 evals/temp/
