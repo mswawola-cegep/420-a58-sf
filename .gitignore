@@ -129,8 +129,9 @@ dmypy.json
 .pyre/
 
 # Solutions
-*sol*
+evals/*/*sol*
 data/people*
+nbs/02-02*/02-02-A2-solution.ipynb
 nbs/02-03*
 nbs/02-04*
 nbs/02-05*
