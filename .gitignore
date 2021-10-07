@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # Solutions
-evals/*/*sol*
 data/people*
 nbs/02-02*/02-02-A2-solution.ipynb
 nbs/02-03*
