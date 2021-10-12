@@ -128,6 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# R
+.RData
+.Rhistory
+
 # Solutions
 data/people*
 nbs/02-02*/02-02-A2-solution.ipynb
@@ -136,6 +140,7 @@ nbs/02-04*/*sol*
 nbs/02-05*/*sol*
 nbs/03*
 nbs/04*
+evals/exam/*sol*
 evals/temp/
 data/temp/
 étudiants
