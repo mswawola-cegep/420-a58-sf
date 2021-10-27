@@ -6,8 +6,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**420-A58-SF - Algorithmes d'apprentissage non supervisé - Été 2020 - Spécialisation technique en Intelligence Artificielle**
-MIT License - Copyright (c) 2020 Mikaël Swawola
+**420-A58-SF - Algorithmes d'apprentissage non supervisé - Été 2021 - Spécialisation technique en Intelligence Artificielle**
+MIT License - Copyright (c) 2021 Mikaël Swawola
 
 ```{r 04-02-tp-banner, echo=FALSE, fig.cap="", out.width='100%'}
 knitr::include_graphics("static/04-02-tp-banner.png")
