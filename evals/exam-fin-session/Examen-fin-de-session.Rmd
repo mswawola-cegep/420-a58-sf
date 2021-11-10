@@ -1,0 +1,89 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**420-A58-SF - Algorithmes d'apprentissage non supervisé - Été 2021 - Spécialisation technique en Intelligence Artificielle**
+MIT License - Copyright (c) 2021 Mikaël Swawola
+
+
+## Partie 4 - Analyse des tâches solaires (25 points)
+
+Les tâches solaires sont des régions magnétiques ayant l'apparance de tâches sombres sur la surface du soleil. Leur étude est primoridiale pour comprendre et prévoir les éruptions solaires car celles-ci peuvent fortement perturber le fonctionnement des systèmes électroniques de télécommuncations.
+
+
+### Librairies
+
+```{r libraries}
+
+# À compléter au fur et à mesure de l'exercice
+
+```
+
+
+### Question 4-1 (2 points)
+**Charger et visualiser la série temporelle `sunspotarea` déjà presente dans la librarie `fpp2`. Que pouvez-vous dire à propos des différentes composantes ?**
+```{r q4_1}
+
+# À compléter
+
+```
+
+
+### Question 4-2 (2 points)
+**Créér la variable `train` ne contenant que les observations antérieures à l'année 1996 (inclus).**
+```{r q4_2}
+
+# À compléter
+
+```
+
+### Question 4-3 (2 points)
+**Combien d'observations ont été gardées pour le test ? Stockez ce nombre dans la variable `h`**
+```{r q4_3}
+
+# À compléter
+
+```
+
+
+### Question 4-4 (8 points)
+**Réalisez les prévisions à l'horizon h à l'aide des modèles NNAR et TBATS. Affichez les prévisions sur un seul et même graphique**
+```{r q4_4}
+
+# À compléter
+
+```
+
+
+### Question 4-5 (4 points)
+**Affichez un "zoom" sur les prévisions incluant tous les modèles afin de comparer les différences. Que concluez-vous ?**
+```{r q4_5}
+
+# À compléter
+
+```
+
+
+### Question 4-6 (4 points)
+**En vous aidant de la question précédente, combinez les prévisions des 2 modèles obtenus. La combinaison consiste ici à calculer la moyenne des 2 prévisions de manière à obtenir une prévision "ensembliste". Afficher sur un graphique la série et les prévisions obtenues par cette combinaison**
+```{r q4_6}
+
+# À compléter
+
+```
+
+
+### Question 4-7 (3 points)
+**Calculez les mesures d’erreurs de prévisions avec les différentes approches, incluant la méthode ensembliste de la question 4-6. Qu’en concluez-vous ?**
+```{r q4_7}
+
+# À compléter
+
+```
+
+
+## Fin de la partie 4
